@@ -1,6 +1,5 @@
-### Hi there 👋
+<img width="984" alt="Screenshot 2023-02-23 alle 12 01 48" src="https://user-images.githubusercontent.com/16253548/220888568-08ac52f8-e06d-4c2a-853b-713ed90f9ac5.png">
 
-<!--
 **lucabecchetti/lucabecchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
